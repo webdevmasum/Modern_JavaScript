@@ -1,0 +1,27 @@
+
+
+
+🔰 Array Declare:
+
+let fruits = ["apple", "banana", "mango"];
+let numbers = [10, 20, 30, 40];
+let mixed = ["hello", 42, true, null];
+
+
+🔢 Array Access by index 
+
+console.log(fruits[0]); // "apple"
+console.log(fruits[1]); // "banana"
+
+
+➕ Element Add in Array
+
+fruits.push("orange"); // Last e add 
+fruits.unshift("grapes"); // First e add 
+
+
+➖  Element Remove in Array
+
+fruits.pop(); // Last element remove
+fruits.shift(); // First element remove
+
